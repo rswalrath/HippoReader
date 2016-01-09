@@ -1,0 +1,11 @@
+cloudpickle==0.1.1
+cymem==1.30
+murmurhash==0.26.0
+numpy==1.10.4
+plac==0.9.1
+preshed==0.43
+six==1.10.0
+spacy==0.99
+text-unidecode==1.0
+thinc==4.0.0
+ujson==1.34
